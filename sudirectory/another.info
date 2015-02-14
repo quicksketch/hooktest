@@ -1,0 +1,3 @@
+name = Second module
+backdrop = 1.x
+description = Different module, no trailing return.
