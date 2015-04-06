@@ -9,6 +9,7 @@ Adding test.
 
 ```
 Code
+Multiple lines
 ```
 
 Foo
